@@ -1,6 +1,6 @@
 # [Terraform](https://www.terraform.io/docs) cloud builder
 
-This is a fork from [cloud builders repo](https://github.com/GoogleCloudPlatform/cloud-builders-community). It's solid repo, but I only wanted Terraform builder to have know provenance for the Terraform binary.
+This is a fork from [cloud builders repo](https://github.com/GoogleCloudPlatform/cloud-builders-community). It's solid repo, but I only wanted Terraform builder.
 
 This builder can be used to run the terraform tool in the GCE. From the Hashicorp Terraform 
 [product page][terraform]:
